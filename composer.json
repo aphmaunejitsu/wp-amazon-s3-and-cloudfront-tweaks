@@ -1,0 +1,16 @@
+{
+    "name": "wp-amazon-s3-and-cloudfront-tweaks ",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/aphmaunejitsu",
+    "authors": [
+      {
+        "name": "aphmaunejitsu",
+        "homepage": "https://github.com/aphmaunejitsu"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.3"
+    }
+}
